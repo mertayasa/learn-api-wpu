@@ -1,0 +1,30 @@
+[
+  {
+    "name" : "Bali Merta",
+    "age" : 22,
+    "Campus" : "ITB Stikom Bali",
+    "Graduate" : false,
+    "Tech Stack" : [
+      "php",
+      "Js"
+    ],
+    "Experience" : {
+      "Php Native": "1 Year",
+      "Vanilla Javasript": "2 Years"
+    }
+  },
+  {
+    "name" : "Bali Merta",
+    "age" : 22,
+    "Campus" : "ITB Stikom Bali",
+    "Graduate" : false,
+    "Tech Stack" : [
+      "php",
+      "Js"
+    ],
+    "Experience" : {
+      "Php Native": "1 Year",
+      "Vanilla Javasript": "2 Years"
+    }
+  }
+]
